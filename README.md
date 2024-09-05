@@ -2,7 +2,7 @@
 pip install discord.py
 
 # Commands
-.btprotector | .payment | .product1
+.bsprotector | .payment | .product1
 
 # INFORMATION 
 
